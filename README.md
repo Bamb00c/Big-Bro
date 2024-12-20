@@ -24,7 +24,7 @@ Big Bro is a robust network monitoring tool built with Python, tailored for **Wi
 ## Installation
 
 ### Prerequisites
-1. **Windows 10 or newer**.
+1. **Windows**.
 2. **Python 3.8 or higher**:
    - Download from the [official Python website](https://www.python.org/downloads/).
    - During installation, check the box to **Add Python to PATH**.
