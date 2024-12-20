@@ -264,7 +264,7 @@ class ConnectionMonitorApp:
         self.running = True
         self.root.title("Big Bro")
         self.root.iconbitmap(r"C:\Users\Student\Desktop\Alert_elvin\eye.ico")
-        self.root.geometry("1200x800")  # Increase window size
+        self.root.geometry("1200x900")  # Increase window size
         self.root.configure(bg="#2e2e2e")
 
         # Title
