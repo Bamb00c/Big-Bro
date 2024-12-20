@@ -1,0 +1,6 @@
+psutil==5.9.5
+plyer==2.1.0
+requests==2.31.0
+pystray==0.19.5
+Pillow==10.3.0
+win10toast==0.9
