@@ -1,6 +1,6 @@
 # Big Bro Network Monitor for Windows
 
-![Big Bro Logo](https://i.imgur.com/hzTBI7h.png)
+![Big Bro Logo](./Big-Bro.jpg)
 
 Big Bro is a robust network monitoring tool built with Python, tailored for **Windows** users. It provides real-time network monitoring, integrates with external threat detection services (VirusTotal and AbuseIPDB), and includes a user-friendly GUI with system tray support.
 
